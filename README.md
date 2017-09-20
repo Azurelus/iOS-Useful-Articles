@@ -1,6 +1,4 @@
-## iOS-Useful-Articles
-
-# Articles (Eng)
+## Articles (Eng)
 
  - Cool Debugging Feature (UIDebuggingInformationOverlay)
 
@@ -18,7 +16,7 @@
 
   https://marcosantadev.com/solid-principles-applied-swift/
 
-# Articles (Rus)
+## Articles (Rus)
 
   - MVC
   
