@@ -15,6 +15,10 @@
   - SOLID
 
   https://marcosantadev.com/solid-principles-applied-swift/
+  
+  - Run/Debug/Install builds over WiFi (from xCode 9 and iOS 11)
+  
+  https://medium.com/@santoshbotre01/wireless-debugging-ios-run-debug-install-builds-over-wifi-a48fc49ac3a7
 
 ## Articles (Rus)
 
