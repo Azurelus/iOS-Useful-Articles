@@ -20,6 +20,10 @@
   
   https://medium.com/@santoshbotre01/wireless-debugging-ios-run-debug-install-builds-over-wifi-a48fc49ac3a7
 
+  - How to open Deep Links, Notifications and Shortcuts
+ 
+ https://medium.com/ios-os-x-development/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696
+ 
 ## Articles (Rus)
 
   - MVC
