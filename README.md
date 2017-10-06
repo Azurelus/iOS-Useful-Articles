@@ -34,3 +34,7 @@
   - MVC
   
   https://habrahabr.ru/post/324414/
+  
+  - Optionals
+  
+  https://habrahabr.ru/post/338766/
