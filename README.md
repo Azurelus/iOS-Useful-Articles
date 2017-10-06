@@ -26,7 +26,7 @@
  
  - Breakpoint for checking retain cycle
  
- 
+ https://user-images.githubusercontent.com/4958215/31266028-8a44eace-aa7a-11e7-8150-3dce3c57b949.png
  
 ## Articles (Rus)
 
