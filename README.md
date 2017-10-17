@@ -32,6 +32,9 @@
  
  ![alt Image](https://user-images.githubusercontent.com/4958215/31266205-5b9d8c0c-aa7b-11e7-8045-3cfb4b694e73.png)
 
+ - Resign .ipa with new distribution certificate
+
+ https://coderwall.com/p/cea3fw/resign-ipa-with-new-distribution-certificate
  
 ## Articles (Rus)
 
