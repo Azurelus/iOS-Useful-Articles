@@ -49,3 +49,7 @@
   - Список из вопросов и задач, которые будут полезными (содержит некоторый устаревший материал)
   
   https://github.com/sashakid/ios-guide
+  
+  - 33 популярные iOS библиотеки с открытым исходным кодом 
+  
+  https://habrahabr.ru/company/everydaytools/blog/320640/
