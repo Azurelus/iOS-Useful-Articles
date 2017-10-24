@@ -45,3 +45,7 @@
   - Optionals
   
   https://habrahabr.ru/post/338766/
+  
+  - Список из вопросов и задач, которые будут полезными (содержит некоторый устаревший материал)
+  
+  https://github.com/sashakid/ios-guide
