@@ -36,6 +36,10 @@
 
  https://coderwall.com/p/cea3fw/resign-ipa-with-new-distribution-certificate
  
+ - 10 Tips when moving from Objective-C to Swift
+ 
+ https://developers.eure.jp/tech/10-tips-when-moving-from-objective-c-to-swift-en/
+ 
 ## Articles (Rus)
 
   - MVC
