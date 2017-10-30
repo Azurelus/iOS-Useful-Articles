@@ -57,3 +57,7 @@
   - 33 популярные iOS библиотеки с открытым исходным кодом 
   
   https://habrahabr.ru/company/everydaytools/blog/320640/
+  
+  - Три ошибки iOS-разработчика, которые могут дорого стоить
+  
+  https://habrahabr.ru/company/efs/blog/340736/
