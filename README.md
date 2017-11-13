@@ -44,6 +44,10 @@
  
  https://medium.com/@dmytro.anokhin/overview-of-developer-tools-for-ui-debugging-122e4995f972
  
+ - Pusher Chatkit, the easiest way to add chat to your apps
+ 
+ https://hackernoon.com/pusher-chatkit-the-easiest-way-to-add-chat-to-your-apps-34e31885a594
+ 
 ## Articles (Rus)
 
   - MVC
