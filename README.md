@@ -48,6 +48,10 @@
  
  https://hackernoon.com/pusher-chatkit-the-easiest-way-to-add-chat-to-your-apps-34e31885a594
  
+ - viewDidLoad() vs. loadView()
+ 
+ https://medium.com/yay-its-erica/viewdidload-vs-loadview-swift3-47f4ad195602
+ 
 ## Articles (Rus)
 
   - MVC
