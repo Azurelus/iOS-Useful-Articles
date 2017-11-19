@@ -52,6 +52,10 @@
  
  https://medium.com/yay-its-erica/viewdidload-vs-loadview-swift3-47f4ad195602
  
+ - Swift Guide to Map Filter Reduce FlatMap
+ 
+ https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/
+ 
 ## Articles (Rus)
 
   - MVC
