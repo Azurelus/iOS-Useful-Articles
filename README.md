@@ -56,6 +56,10 @@
  
  https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/
  
+ - Swift 4 Access Levels
+ 
+ https://useyourloaf.com/blog/swift-4-access-levels/?utm_source=Subscribers&utm_campaign=173a3c0117-EMAIL_CAMPAIGN_2017_11_10&utm_medium=email&utm_term=0_453402a2e6-173a3c0117-501010385
+ 
 ## Articles (Rus)
 
   - MVC
