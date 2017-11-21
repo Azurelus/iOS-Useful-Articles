@@ -64,6 +64,11 @@
 
  https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift
  
+ - Cool Blog about Swift development
+ 
+ https://www.swiftbysundell.com/
+ 
+ 
 ## Articles (Rus)
 
   - MVC
