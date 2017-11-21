@@ -60,6 +60,10 @@
  
  https://useyourloaf.com/blog/swift-4-access-levels/?utm_source=Subscribers&utm_campaign=173a3c0117-EMAIL_CAMPAIGN_2017_11_10&utm_medium=email&utm_term=0_453402a2e6-173a3c0117-501010385
  
+ - Using child view controllers as plugins in Swift
+
+ https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift
+ 
 ## Articles (Rus)
 
   - MVC
