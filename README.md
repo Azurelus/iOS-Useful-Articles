@@ -68,6 +68,13 @@
  
  https://www.swiftbysundell.com/
  
+ - Dependency Injection in Swift
+ 
+ https://cocoacasts.com/dependency-injection-in-swift
+ 
+ - MISTAKES NEW DEVELOPERS MAKE
+ 
+ http://martiancraft.com/blog/2017/11/rookie-mistakes/
  
 ## Articles (Rus)
 
