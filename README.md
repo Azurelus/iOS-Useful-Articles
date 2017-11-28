@@ -76,6 +76,10 @@
  
  http://martiancraft.com/blog/2017/11/rookie-mistakes/
  
+ - IBAction / IBOutlet / IBOutletCollection
+ 
+ http://nshipster.com/ibaction-iboutlet-iboutletcollection/
+ 
 ## Articles (Rus)
 
   - MVC
