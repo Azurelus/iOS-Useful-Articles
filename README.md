@@ -80,6 +80,10 @@
  
  http://nshipster.com/ibaction-iboutlet-iboutletcollection/
  
+ - Building The Perfect Core Data Stack
+ 
+ https://cocoacasts.com/series/building-the-perfect-core-data-stack/
+ 
 ## Articles (Rus)
 
   - MVC
