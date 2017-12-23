@@ -84,6 +84,10 @@
  
  https://cocoacasts.com/series/building-the-perfect-core-data-stack/
  
+ - Best iOS hacks from Twitter: November 2017 Edition
+ 
+ https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4
+ 
 ## Articles (Rus)
 
   - MVC
