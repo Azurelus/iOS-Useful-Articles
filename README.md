@@ -113,3 +113,7 @@
  - Очень полезный сайт о паттернах и рефакторингу
  
  https://refactoring.guru/ru
+
+ - Git 
+
+ https://habrahabr.ru/company/intel/blog/344962/
