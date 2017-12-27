@@ -117,3 +117,7 @@
  - Git 
 
  https://habrahabr.ru/company/intel/blog/344962/
+ 
+ - MUST READ: Архитектура iOS-приложений
+ 
+ https://www.redmadrobot.ru/fyi/architecture_ios
