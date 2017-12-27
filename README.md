@@ -72,7 +72,7 @@
  
  https://cocoacasts.com/dependency-injection-in-swift
  
- - MISTAKES NEW DEVELOPERS MAKE
+ - MUST READ: Mistakes new developers make
  
  http://martiancraft.com/blog/2017/11/rookie-mistakes/
  
