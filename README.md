@@ -92,6 +92,10 @@
  
  https://github.com/durul/My-Medium-Articles
  
+ - Basics of parallel programming with Swift
+ 
+ https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287
+ 
 ## Articles (Rus)
 
   - MVC
