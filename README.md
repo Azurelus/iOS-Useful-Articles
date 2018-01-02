@@ -96,6 +96,10 @@
  
  https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287
  
+ - @AUTORELEASEPOOL in Swift
+ 
+ http://en.swifter.tips/autoreleasepool/
+ 
 ## Articles (Rus)
 
   - MVC
