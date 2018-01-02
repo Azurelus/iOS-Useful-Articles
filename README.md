@@ -133,7 +133,3 @@
  - MUST READ: Архитектура iOS-приложений
  
  https://www.redmadrobot.ru/fyi/architecture_ios
- 
- - Autorelease pool
- 
- http://proswift.ru/pamyat-i-autoreleasepool-dlya-ciklov/
