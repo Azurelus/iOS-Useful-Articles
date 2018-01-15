@@ -100,6 +100,10 @@
  
  http://en.swifter.tips/autoreleasepool/
  
+ - Must-watch videos about Swift
+ 
+ https://github.com/nemanjavlahovic/swift-must-watch
+ 
 ## Articles (Rus)
 
   - MVC
