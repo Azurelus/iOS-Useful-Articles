@@ -104,6 +104,10 @@
  
  https://github.com/nemanjavlahovic/swift-must-watch
  
+ - Mastering MVVM on iOS
+ 
+ https://medium.com/@mecid/mastering-mvvm-on-ios-f875d2b99816
+ 
 ## Articles (Rus)
 
   - MVC
