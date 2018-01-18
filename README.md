@@ -141,3 +141,7 @@
  - MUST READ: Архитектура iOS-приложений
  
  https://www.redmadrobot.ru/fyi/architecture_ios
+ 
+ - Советы сеньоров: как прокачать знания junior iOS
+ 
+ https://dou.ua/lenta/articles/senior-ios-tips/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
