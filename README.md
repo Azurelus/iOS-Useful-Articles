@@ -112,6 +112,10 @@
  
  https://www.swiftbysundell.com/posts/navigation-in-swift
  
+ - Advanced debugging
+ 
+ https://medium.com/@vin.pradeilles/advanced-debugging-with-xcode-5e6c8dabd311
+ 
 ## Articles (Rus)
 
   - MVC
