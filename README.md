@@ -116,6 +116,10 @@
  
  https://medium.com/@vin.pradeilles/advanced-debugging-with-xcode-5e6c8dabd311
  
+ - Seniority
+ 
+ http://merowing.info/2017/01/seniority/
+ 
 ## Articles (Rus)
 
   - MVC
