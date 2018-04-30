@@ -120,6 +120,10 @@
  
  http://merowing.info/2017/01/seniority/
  
+ - Swift tips and tricks
+ 
+ https://github.com/Luur/SwiftTips
+ 
 ## Articles (Rus)
 
   - MVC
