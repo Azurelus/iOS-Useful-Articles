@@ -128,6 +128,10 @@
  
  https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift
  
+ - Avoiding singletons in Swift
+ 
+ https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift
+ 
 ## Articles (Rus)
 
   - MVC
