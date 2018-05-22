@@ -124,6 +124,10 @@
  
  https://github.com/Luur/SwiftTips
  
+ - Preventing views from being model aware in Swift
+ 
+ https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift
+ 
 ## Articles (Rus)
 
   - MVC
