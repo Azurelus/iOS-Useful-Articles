@@ -132,6 +132,10 @@
  
  https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift
  
+ - The Laws of Core Data. Super Useful article
+ 
+ https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/
+ 
 ## Articles (Rus)
 
   - MVC
