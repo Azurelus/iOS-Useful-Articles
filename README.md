@@ -136,6 +136,14 @@
  
  https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/
  
+ - A collection of (mostly) technical things every software developer should know.
+ 
+ https://github.com/mtdvio/every-programmer-should-know
+ 
+ - Skills Matrix for iOS developers
+ 
+ https://github.com/BohdanOrlov/ios-skills-matrix
+ 
 ## Articles (Rus)
 
   - MVC
