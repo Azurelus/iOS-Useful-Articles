@@ -144,6 +144,10 @@
  
  https://github.com/BohdanOrlov/ios-skills-matrix
  
+ - MUST-READ: Refactoring Massive App Delegate
+ 
+ http://www.vadimbulavin.com/refactoring-massive-app-delegate/
+ 
 ## Articles (Rus)
 
   - MVC
