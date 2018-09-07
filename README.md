@@ -148,6 +148,10 @@
  
  http://www.vadimbulavin.com/refactoring-massive-app-delegate/
  
+ - MUST-READ/MUST-USE: How to easily find unused Swift code in Xcode
+
+https://medium.com/@gabriel_lewis/how-to-easily-find-unused-swift-code-in-xcode-159631961acf
+ 
 ## Articles (Rus)
 
   - MVC
