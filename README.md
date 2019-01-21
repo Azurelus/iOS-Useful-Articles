@@ -151,6 +151,10 @@
  - MUST-READ/MUST-USE: How to easily find unused Swift code in Xcode
 
 https://medium.com/@gabriel_lewis/how-to-easily-find-unused-swift-code-in-xcode-159631961acf
+
+ - The Many Offline Options for iOS Apps
+
+https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3
  
 ## Articles (Rus)
 
