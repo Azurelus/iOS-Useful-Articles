@@ -1,5 +1,10 @@
 ## Articles (Eng)
 
+ - iOS project best practices and tools
+ 
+ https://medium.com/@piotr.gorzelany/ios-project-best-practices-and-tools-c46135b8116d
+ https://github.com/pgorzelany/iOS-project-template
+
  - Cool Debugging Feature (UIDebuggingInformationOverlay)
 
   http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/
