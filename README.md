@@ -1,9 +1,5 @@
 ## Articles (Eng)
 
- - 12 ошибок при построении архитектуры ПО
-
-https://dou.ua/lenta/articles/architecture-mistakes/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
-
  - iOS project best practices and tools
  
  https://medium.com/@piotr.gorzelany/ios-project-best-practices-and-tools-c46135b8116d
@@ -166,6 +162,10 @@ https://medium.com/@gabriel_lewis/how-to-easily-find-unused-swift-code-in-xcode-
 https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3
  
 ## Articles (Rus)
+
+ - 12 ошибок при построении архитектуры ПО
+
+https://dou.ua/lenta/articles/architecture-mistakes/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
 
   - MVC
   
