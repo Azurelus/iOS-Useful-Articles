@@ -161,6 +161,10 @@ https://medium.com/@gabriel_lewis/how-to-easily-find-unused-swift-code-in-xcode-
 
 https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3
  
+ - Eliminating Degenerate View Controller States
+ 
+ http://www.vadimbulavin.com/degenerate-view-controller-states/
+ 
 ## Articles (Rus)
 
  - 12 ошибок при построении архитектуры ПО
