@@ -1,4 +1,8 @@
 ## Articles (Eng)
+
+ - Writing High-Performance Swift Code
+
+ https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst
  
  - View decoration in Swift
  
