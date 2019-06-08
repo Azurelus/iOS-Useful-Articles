@@ -3,7 +3,11 @@
  - Writing High-Performance Swift Code
 
  https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst
+
+ - WWDC 2019 - The Things You May Have Missed
  
+ https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html
+
  - View decoration in Swift
  
  https://medium.com/halcyon-mobile/view-decoration-in-swift-4023a68be5d3
