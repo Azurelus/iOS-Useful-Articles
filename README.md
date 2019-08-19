@@ -1,5 +1,9 @@
 ## Articles (Eng)
 
+ - A methodology for building high-quality iOS applications 
+
+https://ios-factor.com/
+
  - Writing High-Performance Swift Code
 
  https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst
