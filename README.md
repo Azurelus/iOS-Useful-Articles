@@ -4,6 +4,10 @@
 
 https://ios-factor.com/
 
+ - Git Cheat Sheet
+
+https://www.keycdn.com/blog/git-cheat-sheet#git-tips
+
  - Writing High-Performance Swift Code
 
  https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst
