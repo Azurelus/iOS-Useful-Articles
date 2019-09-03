@@ -1,5 +1,9 @@
 ## Articles (Eng)
 
+ - @autoreleasepool uses in 2019 Swift
+ 
+https://swiftrocks.com/autoreleasepool-in-2019-swift.html
+
  - A methodology for building high-quality iOS applications 
 
 https://ios-factor.com/
