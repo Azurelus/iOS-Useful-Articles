@@ -238,3 +238,7 @@ https://dou.ua/lenta/articles/architecture-mistakes/?from=comment-digest_post&ut
  - Советы сеньоров: как прокачать знания junior iOS
  
  https://dou.ua/lenta/articles/senior-ios-tips/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
+ 
+ - Функциональный Swift — это просто
+ 
+ https://habr.com/ru/company/redmadrobot/blog/455359/
