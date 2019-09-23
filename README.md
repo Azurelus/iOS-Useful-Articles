@@ -1,6 +1,10 @@
 ## Articles (Eng)
 
-- The Differences Between a Junior, Mid-Level, and Senior Developer
+ - Computed properties in Swift
+
+https://www.swiftbysundell.com/articles/computed-properties-in-swift/
+
+ - The Differences Between a Junior, Mid-Level, and Senior Developer
 
 https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d
 
