@@ -1,5 +1,9 @@
 ## Articles (Eng)
 
+ - Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained
+
+https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/
+
  - Computed properties in Swift
 
 https://www.swiftbysundell.com/articles/computed-properties-in-swift/
