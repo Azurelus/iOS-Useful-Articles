@@ -207,9 +207,13 @@ https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bf
  
 ## Articles (Rus)
 
+ - Карта навыков и модель развития тимлидов
+
+  https://github.com/tlbootcamp/tlroadmap
+
  - 12 ошибок при построении архитектуры ПО
 
-https://dou.ua/lenta/articles/architecture-mistakes/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
+  https://dou.ua/lenta/articles/architecture-mistakes/?from=comment-digest_post&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
 
   - MVC
   
